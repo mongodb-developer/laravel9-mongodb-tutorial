@@ -49,7 +49,7 @@ MONGODB_URI=mongodb+srv://USERNAME:PASSWORD@clustername.subdomain.mongodb.net/?r
 2. You can test your credentials by using the code's API endpoint
 
 ```
-<siteroot>/api/ping/
+<siteroot>/api/test_mongodb/
 ```
 
 Find the site's root URL by going to the "Ports" tab and click on the globe icon of port 80
